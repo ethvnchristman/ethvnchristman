@@ -1,6 +1,7 @@
 # Ethan Christman
 
 Software engineer working in TypeScript, React, Next.js, and Postgres.
+
 B.S. Computer Science, University of Hawaiʻi at Mānoa, 2026.
 
 **Shipped:** [Sail Kokokahi Volunteer Portal](https://sail-kokokahi-nine.vercel.app)
