@@ -4,17 +4,16 @@ Software engineer working in TypeScript, React, Next.js, and Postgres.
 
 B.S. Computer Science, University of Hawaiʻi at Mānoa, 2026.
 
-**Shipped:** [Sail Kokokahi Volunteer Portal](https://sail-kokokahi-nine.vercel.app)
-— volunteer-hour tracking for a sailing club in Kāneʻohe Bay. On a three-person
-team I built the event sign-up and listing pages, a QR-code check-in system for
-recording attendance, and the admin analytics view. Next.js, TypeScript, Prisma,
-Postgres, deployed on Vercel.
+**Shipped:** ⛵ [Sail Kokokahi Volunteer Portal](https://sail-kokokahi-nine.vercel.app) — volunteer-hour tracking for a sailing club in Kāneʻohe Bay. 
 
-**Building now:** a multilingual booking site for a river tour operator in Palau
-— live availability, payments, and routing in three languages.
+On a three-person team I built the event sign-up and listing pages, a QR-code check-in system for
+recording attendance, and the admin analytics view. 
 
-**Next:** working toward LLM application engineering — retrieval, tool calling,
-structured outputs, and evaluation.
+*Next.js, TypeScript, Prisma, Postgres, deployed on Vercel.*
+
+**Building now:** 🚧 A multilingual booking site for a river tour operator in Palau — live availability, payments, and routing in three languages.
+
+**Next:** 🎯 Working toward LLM application engineering — retrieval, tool calling, structured outputs, and evaluation.
 
 Relocating to the San Francisco Bay Area in January 2027.
 📫 ethan.m.christman@gmail.com
